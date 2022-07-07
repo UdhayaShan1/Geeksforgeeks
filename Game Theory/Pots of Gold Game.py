@@ -16,10 +16,7 @@ class Solution:
                 return min(y1,y2)
         x=(CanWin(True,0,len(Q)-1))
         return (x+sum(Q))//2
-        
-        
- 
-
+           
 #{ 
 #  Driver Code Starts
 # Driver Program
